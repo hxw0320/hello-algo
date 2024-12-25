@@ -98,3 +98,5 @@ if __name__ == "__main__":
     # 查找元素
     index: int = find(nums, 3)
     print("在 nums 中查找元素 3 ，得到索引 =", index)
+
+# git测试
